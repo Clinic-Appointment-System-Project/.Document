@@ -1,4 +1,12 @@
 | STT | STUDENT ID | FULL NAME |
+<<<<<<< HEAD
 | 01 | 23BA14307 | Nguyễn Đức Anh Tuấn |
 
 
+=======
+| STT | STUDENT ID | FULL NAME |
+| STT | STUDENT ID | FULL NAME |
+| STT | STUDENT ID | FULL NAME |
+| STT | STUDENT ID | FULL NAME |
+| STT | STUDENT ID | FULL NAME |
+>>>>>>> adf9257ae6762352dac26aecdde849601e3b722d
