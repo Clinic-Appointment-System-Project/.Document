@@ -203,6 +203,7 @@ The following features are outside the scope and can be implemented later in the
 
 ## 8. Main Business Flow
 
+```text
 Patient
  ↓
 Register / Login
@@ -226,7 +227,18 @@ CONFIRMED
 Patient Visits Doctor
  ↓
 COMPLETED
-Cancellation Flow
-Patient → View Appointment → Cancel Appointment → CANCELLED
-                                             ↓
-                                  Time Slot Available
+
+
+Patient
+   │
+   ▼
+View Appointment
+   │
+   ▼
+Cancel Appointment
+   │
+   ▼
+CANCELLED
+   │
+   ▼
+Time Slot Available
